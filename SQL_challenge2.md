@@ -1,3 +1,5 @@
+Consider a database schema for a library with two tables: 'books' and 'authors'.
+
 CREATE TABLE authors (
     author_id INT PRIMARY KEY,
     author_name VARCHAR(100
